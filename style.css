@@ -89,6 +89,10 @@ p{
 }
 }
 
+.h1effect {
+    text-decoration: underline;
+}
+
 .h1effect:hover {
 	color: black;
     position: relative;
