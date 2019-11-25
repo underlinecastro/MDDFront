@@ -80,6 +80,14 @@ p{
 	margin: 0 auto;
 	margin-top: 72px;
 }
+@media only screen and (max-width: 800px) {
+.grid {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	margin: 0 auto;
+	margin-top: 72px;
+}
+}
 
 .h1effect:hover {
 	color: black;
