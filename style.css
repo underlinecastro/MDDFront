@@ -10,7 +10,7 @@ body{
 h1 {
 	font-size: 96px;
 	font-family: Muli;
-	font-weight: 700;
+	font-weight: 900;
 	color: #005AE1;
 	margin:0;
 }
@@ -78,7 +78,7 @@ p{
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);
 	margin: 0 auto;
-	margin-top: 72px;
+	margin-top: 96px;
 }
 @media only screen and (max-width: 800px) {
 .grid {
